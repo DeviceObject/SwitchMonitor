@@ -1,0 +1,2 @@
+NTSTATUS QuerySymbolicLink(IN PUNICODE_STRING SymbolicLinkName,OUT PUNICODE_STRING LinkTarget);
+NTSTATUS MyRtlVolumeDeviceToDosName(IN PUNICODE_STRING DeviceName,OUT PUNICODE_STRING DosName);

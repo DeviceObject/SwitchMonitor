@@ -1,0 +1,2 @@
+DWORD CheckExamples();
+void ReleaseExamples();
